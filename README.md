@@ -15,3 +15,7 @@ Python • Flask • HTML • CSS • JavaScript • SQL
 👥 **Loopup** — Full-stack social platform
 
 🌐 **Portfolio** — Personal developer portfolio
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/saloni-patidar-a3a5432ba) • [Portfolio](https://saloni-portfolio-vm0e.onrender.com)
