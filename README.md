@@ -1,3 +1,6 @@
+![Saloni Patidar - Python Developer](banner%20github.png)
+
+
 # Hi, I'm Saloni Patidar 👋
 
 Python Developer | Flask & Web Development | Exploring AI/ML & Generative AI
