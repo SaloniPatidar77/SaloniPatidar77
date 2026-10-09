@@ -28,6 +28,11 @@ E-commerce project built with Next.js.
 👥 **[Loopup](https://github.com/SaloniPatidar77/codealpha_tasks)**
 Django-based social media platform.
 
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/saloni-patidar-a3a5432ba) • [Portfolio](https://saloni-portfolio-vm0e.onrender.com)
+
+
 
 ## Connect with Me
 
