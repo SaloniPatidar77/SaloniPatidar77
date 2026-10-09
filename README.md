@@ -14,6 +14,8 @@ Python Developer | Flask & Web Development | Exploring AI/ML & Generative AI
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+
+
 ## Featured Projects
 
 🌱 **[Waste2Use](https://github.com/SaloniPatidar77/Waste2Use)**
@@ -31,6 +33,7 @@ Django-based social media platform.
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/saloni-patidar-a3a5432ba) • [Portfolio](https://saloni-portfolio-vm0e.onrender.com)
+
 
 
 
