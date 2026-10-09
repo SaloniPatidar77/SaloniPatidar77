@@ -16,13 +16,18 @@ Python Developer | Flask & Web Development | Exploring AI/ML & Generative AI
 
 ## Featured Projects
 
-🌱 **Waste2Use** — Smart waste reuse & sustainability platform
+🌱 **[Waste2Use](https://github.com/SaloniPatidar77/Waste2Use)**
+Smart Waste Reuse & Sustainability Platform built with Python.
 
-🛒 **Nexora** — E-commerce web application
+💻 **[Saloni Portfolio](https://github.com/SaloniPatidar77/saloni_portfolio)**
+Personal portfolio website built with Python and Flask.
 
-👥 **Loopup** — Full-stack social platform
+🛒 **[Nexora](https://github.com/SaloniPatidar77/codealpha_tasks)**
+E-commerce project built with Next.js.
 
-🌐 **Portfolio** — Personal developer portfolio
+👥 **[Loopup](https://github.com/SaloniPatidar77/codealpha_tasks)**
+Django-based social media platform.
+
 
 ## Connect with Me
 
